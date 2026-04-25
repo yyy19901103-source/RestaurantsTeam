@@ -33,6 +33,9 @@ export default function RootLayout({
               <Link href="/history" className="hover:underline opacity-90 hover:opacity-100">
                 訪問履歴
               </Link>
+              <Link href="/simulation" className="hover:underline opacity-90 hover:opacity-100 border-l border-orange-300 pl-4">
+                人生シミュレーション
+              </Link>
             </nav>
           </div>
         </header>
